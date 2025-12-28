@@ -1,5 +1,5 @@
 # Outputs
-Terraform AWS VPC
+Terraform AWS VPC.
 This module creates the following resources.
 
 VPC
